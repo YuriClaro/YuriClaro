@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @YuriClaro
-- 🌱 I’m currently learning Java and MySQL
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me on yuri.claro@outlook.com
+Desenvolvedor Java em formação
+
+yuri.claro@outlook.com

@@ -1,3 +1,3 @@
-Desenvolvedor Java em formação
+Olá, eu sou o Yuri Claro! Seja bem vindo(a) ao meu perfil do GitHub!
 
-yuri.claro@outlook.com
+#java #html #css #javascript #sql 

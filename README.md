@@ -2,7 +2,8 @@
 
 - Desenvolvedor em formação
 - Java | SQL | HTML | CSS | Javascript
-- 5 ºSemestre de Análise e Desenvolvimento de Sistemas
+- Formado em Analise e Desenvolvimento de Sistemas
+- Inglês nível B2 na escala CEFR
 
 <h2></h2>
 

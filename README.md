@@ -1,7 +1,7 @@
 <h2>Olá! meu nome é Yuri Claro 👋</h2>
 
-- Desenvolvedor em formação
-- Java | SQL | HTML | CSS | Javascript
+- Desenvolvedor Full Stack
+- Java | SQL | HTML | CSS | Javascript | GIT
 - Formado em Analise e Desenvolvimento de Sistemas
 - Inglês nível B2 na escala CEFR
 

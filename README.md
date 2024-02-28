@@ -1,6 +1,6 @@
 <h2>Olá! meu nome é Yuri Claro 👋</h2>
 
-- Desenvolvedor Full Stack
+- Aprendiz de Desenvolvedor Java
 - Java | SpringBoot | SQL | GIT
 - Formado em Analise e Desenvolvimento de Sistemas
 - Inglês nível B2 na escala CEFR

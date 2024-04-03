@@ -1,6 +1,6 @@
 <h2>Olá! meu nome é Yuri Claro 👋</h2>
 
-- Aprendiz de Desenvolvedor Java
+- Desenvolvedor Java em formação
 - Java | SpringBoot | SQL | GIT
 - Formado em Analise e Desenvolvimento de Sistemas
 - Inglês nível B2 na escala CEFR

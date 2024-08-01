@@ -1,9 +1,11 @@
 <h2>Olá! meu nome é Yuri Claro 👋</h2>
 
-- Desenvolvedor Java em formação
-- Java | SpringBoot | SQL | GIT
+- Desenvolvedor Java
+- Java | SpringBoot | SQL | GIT | Typescript
+- Cursando Ciência da Computação
 - Formado em Analise e Desenvolvimento de Sistemas
 - Inglês nível B2 na escala CEFR
+- Espanhol básico
 
 <h2></h2>
 

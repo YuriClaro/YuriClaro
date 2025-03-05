@@ -1,13 +1,11 @@
 <h2>Hi! My name is Yuri Claro 👋</h2>
 
-👋 I’m a Java Developer and, yes, I’m passionate about Java ☕️ (the language, not the coffee... though that helps too!). A tech enthusiast, I love coding and tackling challenges, especially when they involve our beloved bugs (I mean, who doesn’t love solving a good mystery?). I'm always on the lookout for new ways to improve my skills and turn problems into creative solutions, with a touch of humor to keep the code light and life even lighter! ✨️
-
-Let’s code together?! 
+Java Backend Developer with solid knowledge in Spring Boot, JWT, Docker, Kafka, RabbitMQ, Hibernate, Liquibase, JUnit, Mockito and Microservices.
 
 ##
 
 - Java Junior Developer
-- Java | Spring Boot | SQL | Docker | Kafka | RabbitMQ
+- Java | Spring Boot | SQL | Docker | Kafka | RabbitMQ | AWS | Azure | Kotlin
 
 <h2></h2>
 
